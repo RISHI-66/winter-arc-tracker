@@ -1,0 +1,10 @@
+{
+  "name":"Winter Arc Tracker 2026–2027",
+  "short_name":"Winter Arc",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#0b0f19",
+  "theme_color":"#10b981",
+  "description":"Personal Winter Arc habit, health, screen-time and cigarette-quit tracker.",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
